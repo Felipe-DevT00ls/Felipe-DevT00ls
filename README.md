@@ -1,4 +1,11 @@
 ### Hi there 👋
+Olá me chamo Gabriel Felipe
+
+Atualmente estou cursando Ciências da computação
+Sou formado como técnico em informática para internet Pelo IFMA
+
+Atualmente estudando desenvolvimento web
+
 
 <!--
 **Felipe-DevT00ls/Felipe-DevT00ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
