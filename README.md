@@ -4,15 +4,15 @@ Olá me chamo Gabriel Felipe
 Atualmente estou cursando Ciências da computação
 Sou formado como técnico em informática para internet Pelo IFMA
 
-Atualmente estudando as seguintes Stacks:
-⚡Front-end:
- --> Reactjs
- --> Angular
- --> Vuejs
-💬Back-end:
- --> Nodejs
- --> Java
- --> Php
+Atualmente estudando as seguintes Stacks:<br/>
+⚡Front-end:<br/>
+ --> Reactjs<br/>
+ --> Angular<br/>
+ --> Vuejs<br/>
+💬Back-end:<br/>
+ --> Nodejs<br/>
+ --> Java<br/>
+ --> Php<br/>
  
  
 <!--
