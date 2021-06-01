@@ -8,7 +8,7 @@ Atualmente estudando as seguintes Stacks:<br/><br/>
 ⚡Front-end:<br/>
  --> Reactjs<br/>
  --> Angular<br/>
- --> Vuejs<br/>
+ --> Vuejs<br/><br/>
 💬Back-end:<br/>
  --> Nodejs<br/>
  --> Java<br/>
