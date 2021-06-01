@@ -1,8 +1,8 @@
 ### Oi tudo bem ? 👋<hr>
 Me chamo Gabriel Felipe
 
-Atualmente estou cursando Ciências da computação
-Sou formado como técnico em informática para internet Pelo IFMA
+Atualmente estou cursando Ciências da computação<br/>
+Sou formado como técnico em informática para internet Pelo IFMA<br/>
 
 Atualmente estudando as seguintes Stacks:<br/><br/>
 ⚡Front-end:<br/>
