@@ -1,10 +1,10 @@
-### Oi tudo bem ? 👋
-Olá me chamo Gabriel Felipe
+### Oi tudo bem ? 👋<hr>
+Me chamo Gabriel Felipe
 
 Atualmente estou cursando Ciências da computação
 Sou formado como técnico em informática para internet Pelo IFMA
 
-Atualmente estudando as seguintes Stacks:<br/>
+Atualmente estudando as seguintes Stacks:<br/><br/>
 ⚡Front-end:<br/>
  --> Reactjs<br/>
  --> Angular<br/>
