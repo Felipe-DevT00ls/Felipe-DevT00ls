@@ -14,8 +14,7 @@ Atualmente estudando as seguintes Stacks:<br/><br/>
 💬Back-end:<br/>
  --> Nodejs<br/>
  --> Java<br/>
- --> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-Php<br/>
+ --> Php<br/>
  
  
 
