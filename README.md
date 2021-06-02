@@ -1,4 +1,4 @@
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-DevT00ls&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-DevT00ls&show_icons=true&theme=tokyonight)
 
 ### Oi tudo bem ? 👋<hr>
 Me chamo Gabriel Felipe
