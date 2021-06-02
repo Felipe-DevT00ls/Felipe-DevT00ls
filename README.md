@@ -1,3 +1,5 @@
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-DevT00ls&show_icons=true&theme=radical)
+
 ### Oi tudo bem ? 👋<hr>
 Me chamo Gabriel Felipe
 
@@ -15,7 +17,7 @@ Atualmente estudando as seguintes Stacks:<br/><br/>
  --> Php<br/>
  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
  
 <!--
