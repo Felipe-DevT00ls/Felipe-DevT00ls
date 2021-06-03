@@ -3,7 +3,7 @@
 ### Oi tudo bem ? 👋<hr>
 Me chamo Gabriel Felipe
 
-Atualmente estou cursando Ciências da computação<br/>
+Atualmente estou cursando Ciências da computação Pela UFMA<br/>
 Sou formado como técnico em informática para internet Pelo IFMA<br/>
 
 Atualmente estudando as seguintes Stacks:<br/><br/>
