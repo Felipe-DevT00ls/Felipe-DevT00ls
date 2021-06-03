@@ -3,8 +3,8 @@
 ### Oi tudo bem ? 👋<hr>
 Me chamo Gabriel Felipe
 
-Atualmente estou cursando Ciências da computação Pela UNIVERSIDADE FEDERAL DO MARANHÃO<br/>
-Sou formado como técnico em informática para internet Pelo INSTITUTO FEDERAL DO MARANHÃO<br/>
+Atualmente estou cursando Ciências da computação Pela Universidade Federal do Maranhão<br/>
+Sou formado como técnico em informática para internet Pelo Instituto Federal do Maranhão<br/>
 
 Atualmente estudando as seguintes Stacks:<br/><br/>
 ⚡Front-end:<br/>
