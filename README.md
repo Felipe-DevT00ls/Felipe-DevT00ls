@@ -15,6 +15,7 @@ Atualmente estudando as seguintes Stacks:<br/><br/>
  --> Nodejs<br/>
  --> Java<br/>
  --> Php<br/>
+ --> Python
  
  
 
