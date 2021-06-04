@@ -1,21 +1,28 @@
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-DevT00ls&show_icons=true&theme=tokyonight) -->
 
-### Oi tudo bem ? 👋<hr>
-Me chamo Gabriel Felipe
+# Oi tudo bem ? 👋<hr>
+Me chamo Gabriel Felipe...
 
-Atualmente estou cursando Ciências da computação Pela Universidade Federal do Maranhão<br/>
-Sou formado como técnico em informática para internet Pelo Instituto Federal do Maranhão<br/>
+## Sobre:
+Sou um programador apaixonado por aprender coisas novas e disposto a superar desafios.<br>
+Conheci o mundo da informática muito cedo, aos meus 8 anos quando ganhei meu primeiro computador.<br>
+Logo após isso, comecei um curso em operador de micro e me certifiquei aos 12 anos.<br>
+Depois me formei como Técnico em informática no Instituto Federal do Maranhão.<br>
+Atualmente curso Ciências da Computação na Universidade federal do Maranhão.
 
+## Estudos:
+Sou um desenvolvedor focado na parte do Back-End, porém, gosto de me divertir com o front-end. :smile:
 Atualmente estudando as seguintes Stacks:<br/><br/>
-⚡Front-end:<br/>
- --> Reactjs<br/>
- --> Angular<br/>
- --> Vuejs<br/><br/>
-💬Back-end:<br/>
- --> Nodejs<br/>
- --> Java<br/>
- --> Php<br/>
- --> Python
+## ⚡Front-end:
+ - Reactjs
+ - Angular
+ - Vuejs
+## 💬Back-end:
+ - Nodejs
+ - Java
+ - Php
+ - Python
+ - .Net
  
  
 
