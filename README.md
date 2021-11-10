@@ -13,10 +13,10 @@ Atualmente curso Ciências da Computação na Universidade federal do Maranhão.
 ## Estudos:
 Sou um desenvolvedor focado na parte do Back-End, porém, gosto de me divertir com o front-end. :smile:
 Atualmente estudando:<br/><br/>
-## 🔨 Arquitetura-de-Software:
+<!-- ## 🔨 Arquitetura-de-Software:
  - Testes de Software
  - Modelagem de Domínio de Riscos
- - Desenvolvimento Ágil
+ - Desenvolvimento Ágil -->
 ## 💬Back-end:
  - Nodejs
  - Java
