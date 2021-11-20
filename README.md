@@ -19,10 +19,8 @@ Atualmente estudando:<br/><br/>
  - Desenvolvimento Ágil -->
 ## 💬Back-end:
  - Nodejs
- - Java
  - Php
  - Python
- - .Net
  
  
 
